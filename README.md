@@ -6,6 +6,6 @@ Flutter application that shows current location of user. user can also click pic
 
 
 <p align="center">
-  <img width="500" height="300" src="https://user-images.githubusercontent.com/68772292/118421343-a3152900-b6de-11eb-9534-f892935ea357.png">
+  <img width="500" height="500" src="https://user-images.githubusercontent.com/68772292/118421343-a3152900-b6de-11eb-9534-f892935ea357.png">
 </p>
 
